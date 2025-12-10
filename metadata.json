@@ -1,0 +1,5 @@
+{
+  "name": "Matchstick Math Explorer",
+  "description": "An interactive educational tool to visualize and solve the matchstick triangle pattern problem found in math worksheets.",
+  "requestFramePermissions": []
+}
